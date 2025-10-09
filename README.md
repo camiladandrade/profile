@@ -28,9 +28,9 @@ Aqui você encontra uma seleção dos meus projetos e iniciativas em Segurança 
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
-- 📺 [YouTube](https://www.youtube.com/SEU-CANAL)  
-- 🌍 [Site Pessoal](https://SEU-SITE.com) *(opcional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/camiladandrade/)  
+- 📺 [YouTube](https://www.youtube.com/@CamilaDAndrade)  
+- 🌍 [Site Pessoal](https://camiladandrade.com)
 
 ---
 
