@@ -22,7 +22,7 @@ Aqui você encontra uma seleção de projetos com **artefatos práticos** (templ
 
 - 🛡️ **Incident Response Playbooks**  
   Guias e processos para resposta a incidentes (triagem, contenção, erradicação, comunicação e lições aprendidas).  
-  → `[incident-response-playbooks]`(https://github.com/camiladandrade/incident-response-playbooks)
+  → [`incident-response-playbooks`](https://github.com/camiladandrade/incident-response-playbooks)
 
 - 🌐 **Threat Intelligence**  
   Relatórios e estudos de campanhas com foco em análise estratégica e acionável (técnico + executivo).  
