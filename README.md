@@ -1,37 +1,52 @@
 # 👋 Olá, eu sou Camila Andrade
 
-Sou **Líder em Segurança da Informação**, com foco em **GRC, Gestão de Vulnerabilidades, Resposta a Incidentes e Threat Intelligence**.  
-Minha missão é **conectar estratégia, governança e ação técnica** para fortalecer organizações frente aos desafios de segurança atuais.
+Sou Líder em Segurança da Informação com foco em **GRC**, **Gestão de Vulnerabilidades**, **Resposta a Incidentes** e **Threat Intelligence**.  
+Minha missão é conectar **estratégia, governança e execução técnica** para fortalecer organizações frente aos desafios de segurança atuais.
+
+- 📌 **Pilares:** GRC & Resiliência | Vulnerability Management | Incident Response | Threat Intelligence | Métricas de Segurança  
+- 🎯 **Interesse em 2026:** Coordenação/Gerência de Segurança da Informação (remoto/flexível)
 
 ---
 
 ## 🚀 Principais Projetos
 
-Aqui você encontra uma seleção dos meus projetos e iniciativas em Segurança da Informação:
+Aqui você encontra uma seleção de projetos com **artefatos práticos** (templates, playbooks, modelos e exemplos) para aplicação em ambientes corporativos:
 
-- 🧭 **[GRC Frameworks](https://github.com/camiladandrade/grc-frameworks)** → Templates, políticas e matrizes de risco baseadas em ISO 27001 e NIST.  
-- 🧪 **[Vulnerability Management Lab](https://github.com/camiladandrade/vulnerability-management-lab)** → Laboratórios e scripts voltados para identificação e correção de vulnerabilidades.  
-- 🛡️ **[Incident Response Playbooks](https://github.com/camiladandrade/incident-response-playbooks)** → Guias e processos para resposta a incidentes.  
-- 🌐 **[Threat Intelligence Studies](https://github.com/camiladandrade/threat-intelligence)** → Relatórios e estudos de campanhas, com foco em análise estratégica.
+- 🧭 **GRC Frameworks**  
+  Templates, políticas, matrizes e gestão de riscos baseados em **ISO 27001 / NIST**.  
+  → `grc-frameworks`
 
-> ✨ *Os repositórios acima serão atualizados continuamente com novos conteúdos e projetos práticos.*
+- 🧪 **Vulnerability Management Lab**  
+  Materiais e modelos para um programa de gestão de vulnerabilidades: scanning, triagem, priorização, remediação, validação e reporting.  
+  → `vulnerability-management-lab`
+
+- 🛡️ **Incident Response Playbooks**  
+  Guias e processos para resposta a incidentes (triagem, contenção, erradicação, comunicação e lições aprendidas).  
+  → `incident-response-playbooks`
+
+- 🌐 **Threat Intelligence**  
+  Relatórios e estudos de campanhas com foco em análise estratégica e acionável (técnico + executivo).  
+  → `threat-intelligence`
+
+> ✨ Este portfólio é atualizado continuamente com novos conteúdos e melhorias nos artefatos.
 
 ---
 
-## 🛠️ Skills e Ferramentas
+## 🧰 Skills & Ferramentas (visão rápida)
 
-| Governança & Normas | Ferramentas & Tecnologias | Áreas Técnicas |
-|----------------------|-----------------------------|---------------|
-| ISO 27001, NIST, LGPD | Nessus, OpenVAS, Splunk, SIEM | GRC, Gestão de Vulnerabilidades, IR, Threat Intelligence |
+**Governança & Normas:** ISO 27001, NIST, LGPD/GDPR  
+**Vulnerabilidade & Exposição:** Nessus, OpenVAS, priorização e acompanhamento de remediação  
+**Detecção & Resposta:** SIEM (ex.: Splunk), investigação, playbooks e coordenação de resposta  
+**Gestão:** risco, processos, comunicação executiva, métricas e relatórios
 
 ---
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/camiladandrade/)  
-- 📺 [YouTube](https://www.youtube.com/@CamilaDAndrade)  
-- 🌍 [Site Pessoal](https://camiladandrade.com)
+- 💼 LinkedIn: <(https://www.linkedin.com/in/camiladandrade/)>
+- 📺 YouTube: <(https://www.youtube.com/@CamilaDAndrade)>
+- 🌍 Site pessoal: <(https://camiladandrade.com/)>
 
 ---
 
-📌 *Este portfólio tem como objetivo apresentar minha atuação profissional em Segurança da Informação, combinando estratégia, liderança e prática técnica.*
+📌 **Objetivo deste GitHub:** apresentar minha atuação em Segurança da Informação combinando **liderança, governança e prática técnica**, com foco em entrega de valor e redução de risco.
