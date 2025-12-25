@@ -12,21 +12,21 @@ Minha missão é conectar **estratégia, governança e execução técnica** par
 
 Aqui você encontra uma seleção de projetos com **artefatos práticos** (templates, playbooks, modelos e exemplos) para aplicação em ambientes corporativos:
 
-- 🧭 **GRC Frameworks**  
+- 🧭 **GRC Resilience Playbooks**  
   Templates, políticas, matrizes e gestão de riscos baseados em **ISO 27001 / NIST**.  
-  → `grc-frameworks`
+  → [`grc-resilience-playbook`](https://github.com/camiladandrade/grc-resilience-playbook)
 
 - 🧪 **Vulnerability Management Lab**  
   Materiais e modelos para um programa de gestão de vulnerabilidades: scanning, triagem, priorização, remediação, validação e reporting.  
-  → `vulnerability-management-lab`
+  → [`vulnerability-management-lab`](https://github.com/camiladandrade/vulnerability-management-lab)
 
 - 🛡️ **Incident Response Playbooks**  
   Guias e processos para resposta a incidentes (triagem, contenção, erradicação, comunicação e lições aprendidas).  
-  → `incident-response-playbooks`
+  → `[incident-response-playbooks]`(https://github.com/camiladandrade/incident-response-playbooks)
 
 - 🌐 **Threat Intelligence**  
   Relatórios e estudos de campanhas com foco em análise estratégica e acionável (técnico + executivo).  
-  → `threat-intelligence`
+  → [`threat-intelligence`](https://github.com/camiladandrade/threat-intelligence)
 
 > ✨ Este portfólio é atualizado continuamente com novos conteúdos e melhorias nos artefatos.
 
@@ -43,9 +43,9 @@ Aqui você encontra uma seleção de projetos com **artefatos práticos** (templ
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn:](https://www.linkedin.com/in/camiladandrade/)
-- 📺 [YouTube:](https://www.youtube.com/@CamilaDAndrade)
-- 🌍 [Site pessoal:](https://camiladandrade.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/camiladandrade/)
+- 📺 [YouTube](https://www.youtube.com/@CamilaDAndrade)
+- 🌍 [Site pessoal](https://camiladandrade.com/)
 
 ---
 
