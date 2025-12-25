@@ -43,9 +43,9 @@ Aqui você encontra uma seleção de projetos com **artefatos práticos** (templ
 
 ## 🌐 Onde me encontrar
 
-- 💼 LinkedIn: <(https://www.linkedin.com/in/camiladandrade/)>
-- 📺 YouTube: <(https://www.youtube.com/@CamilaDAndrade)>
-- 🌍 Site pessoal: <(https://camiladandrade.com/)>
+- 💼 <[LinkedIn:](https://www.linkedin.com/in/camiladandrade/)>
+- 📺 <[YouTube:](https://www.youtube.com/@CamilaDAndrade)>
+- 🌍 <[Site pessoal:](https://camiladandrade.com/)>
 
 ---
 
