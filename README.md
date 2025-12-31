@@ -3,8 +3,8 @@
 Sou Líder em Segurança da Informação com foco em **GRC**, **Gestão de Vulnerabilidades**, **Resposta a Incidentes** e **Threat Intelligence**.  
 Minha missão é conectar **estratégia, governança e execução técnica** para fortalecer organizações frente aos desafios de segurança atuais.
 
-- 📌 **Pilares:** GRC & Resiliência | Vulnerability Management | Incident Response | Threat Intelligence | Métricas de Segurança  
-- 🎯 **Interesse em 2026:** Coordenação/Gerência de Segurança da Informação (remoto/flexível)
+- 📌 **Pilares:** GRC & Resiliência | Gestão de Vulnerabilidades | Resposta a Incidentes | Threat Intelligence | Métricas de Segurança  
+- 🎯 **Interesse Profissional:** Coordenação/Gerência de Segurança da Informação (remoto)
 
 ---
 
@@ -36,7 +36,7 @@ Aqui você encontra uma seleção de projetos com **artefatos práticos** (templ
 
 **Governança & Normas:** ISO 27001, NIST, LGPD/GDPR  
 **Vulnerabilidade & Exposição:** Nessus, OpenVAS, priorização e acompanhamento de remediação  
-**Detecção & Resposta:** SIEM (ex.: Splunk), investigação, playbooks e coordenação de resposta  
+**Detecção & Resposta:** SIEM, investigação, playbooks e coordenação de resposta  
 **Gestão:** risco, processos, comunicação executiva, métricas e relatórios
 
 ---
@@ -46,6 +46,7 @@ Aqui você encontra uma seleção de projetos com **artefatos práticos** (templ
 - 💼 [LinkedIn](https://www.linkedin.com/in/camiladandrade/)
 - 📺 [YouTube](https://www.youtube.com/@CamilaDAndrade)
 - 🌍 [Site pessoal](https://camiladandrade.com/)
+- 📷 [Instagram](https://www.instagram.com/camiladandrade/)
 
 ---
 
